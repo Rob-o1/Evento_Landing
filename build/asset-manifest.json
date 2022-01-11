@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.374f8d60.chunk.css",
-    "main.js": "./static/js/main.765d2639.chunk.js",
-    "main.js.map": "./static/js/main.765d2639.chunk.js.map",
+    "main.css": "./static/css/main.b0d02079.chunk.css",
+    "main.js": "./static/js/main.66e227dd.chunk.js",
+    "main.js.map": "./static/js/main.66e227dd.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.3e52e6df.js",
     "runtime-main.js.map": "./static/js/runtime-main.3e52e6df.js.map",
     "static/css/2.44826e3e.chunk.css": "./static/css/2.44826e3e.chunk.css",
@@ -12,20 +12,20 @@
     "static/js/3.924f5087.chunk.js.map": "./static/js/3.924f5087.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.44826e3e.chunk.css.map": "./static/css/2.44826e3e.chunk.css.map",
-    "static/css/main.374f8d60.chunk.css.map": "./static/css/main.374f8d60.chunk.css.map",
+    "static/css/main.b0d02079.chunk.css.map": "./static/css/main.b0d02079.chunk.css.map",
     "static/js/2.5e5f1107.chunk.js.LICENSE.txt": "./static/js/2.5e5f1107.chunk.js.LICENSE.txt",
     "static/media/Grocery store Offer.de612c44.png": "./static/media/Grocery store Offer.de612c44.png",
     "static/media/Mobile Store Offer.bc4e22b6.png": "./static/media/Mobile Store Offer.bc4e22b6.png",
     "static/media/Multi-Devices.7706f19c.png": "./static/media/Multi-Devices.7706f19c.png",
-    "static/media/Showcase-bg.21f11310.png": "./static/media/Showcase-bg.21f11310.png",
+    "static/media/Showcase-bg.99ac08f4.png": "./static/media/Showcase-bg.99ac08f4.png",
     "static/media/Speaker.f6d2bd15.png": "./static/media/Speaker.f6d2bd15.png",
     "static/media/about-g.04de760c.png": "./static/media/about-g.04de760c.png",
     "static/media/style.css": "./static/media/landing-home-bg.13448dee.png",
     "static/media/dj.1adaba0c.png": "./static/media/dj.1adaba0c.png",
+    "static/media/evento packege.6907514a.png": "./static/media/evento packege.6907514a.png",
     "static/media/fashion-store.c51824a4.png": "./static/media/fashion-store.c51824a4.png",
     "static/media/friut-market.e9275149.jpg": "./static/media/friut-market.e9275149.jpg",
     "static/media/l-banner.5c525fa2.png": "./static/media/l-banner.5c525fa2.png",
-    "static/media/logo.e9ba40f4.jpg": "./static/media/logo.e9ba40f4.jpg",
     "static/media/noiseporn.fa72377a.jpg": "./static/media/noiseporn.fa72377a.jpg",
     "static/media/our-company.45ef6fee.png": "./static/media/our-company.45ef6fee.png",
     "static/media/upcoming-1.4c57ded7.png": "./static/media/upcoming-1.4c57ded7.png",
@@ -36,7 +36,7 @@
     "static/js/runtime-main.3e52e6df.js",
     "static/css/2.44826e3e.chunk.css",
     "static/js/2.5e5f1107.chunk.js",
-    "static/css/main.374f8d60.chunk.css",
-    "static/js/main.765d2639.chunk.js"
+    "static/css/main.b0d02079.chunk.css",
+    "static/js/main.66e227dd.chunk.js"
   ]
 }
